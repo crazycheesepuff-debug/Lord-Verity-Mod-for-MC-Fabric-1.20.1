@@ -1,0 +1,9 @@
+{
+  "damn": {
+    "subtitle": "subtitles.lordverity.damn",
+    "sounds": [ { "name": "lordverity:damn" } ]
+  },
+  "master_of_humanity": {
+    "sounds": [ { "name": "lordverity:master_of_humanity", "stream": true } ]
+  }
+}

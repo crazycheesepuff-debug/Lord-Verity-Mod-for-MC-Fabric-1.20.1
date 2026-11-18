@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "lordverity",
+  "version": "${version}",
+  "name": "Lord Verity",
+  "description": "Ask a question in chat. He does not give a damn.",
+  "authors": ["You"],
+  "license": "All-Rights-Reserved",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.lordverity.LordVerityMod"],
+    "client": ["com.lordverity.client.LordVerityClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.14.21",
+    "minecraft": "~1.20.1",
+    "java": ">=17",
+    "fabric-api": "*"
+  }
+}
